@@ -1,10 +1,10 @@
-#Facebook Clone
+# Facebook Clone
 
 Project created for study purposes, my first application in react native
 
 Clone of the facebook app's non-functional layout
 
-##Start
+## Start
 
 To install dependencies
 
