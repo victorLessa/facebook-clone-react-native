@@ -21,4 +21,4 @@ run application on android
 
 ## Snapshots
 
-![Image of Yaktocat](./images/screen1.png =150x)
+![Image of Yaktocat](./images/screen1.png | width=100)
