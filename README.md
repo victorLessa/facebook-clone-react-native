@@ -18,3 +18,7 @@ run application on android
 ```shell
   reat-native run-android
 ```
+
+## Snapshots
+
+![Image of Yaktocat](./images/screen1.png)
