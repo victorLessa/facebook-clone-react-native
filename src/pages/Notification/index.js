@@ -1,10 +1,10 @@
 import React from 'react';
-import {View} from 'react-native';
+import {View, Text} from 'react-native';
 
 // import { Container } from './styles';
 
 const Notification = () => {
-  return <View />;
+  return (<View><Text>Motification</Text></View>);
 };
 
 export default Notification;

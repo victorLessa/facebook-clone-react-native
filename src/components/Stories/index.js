@@ -84,7 +84,7 @@ const styles = StyleSheet.create({
   item_scroll_view: {
     width: 95,
     height: 160,
-    marginEnd: 10,
+    marginEnd: 5,
     borderColor: '#333',
     borderWidth: 1,
     borderRadius: 10,

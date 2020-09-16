@@ -1,17 +1,21 @@
 import React from 'react';
-import {View, Text, Image, TextInput, StyleSheet} from 'react-native';
+import {View, ScrollView} from 'react-native';
 // import { Container } from './styles';
 
 import WhatIsOnYourMind from '../../components/WhatIsOnYourMind/index';
 import CreateRoom from '../../components/CreateRoom/index';
 import Stories from '../../components/Stories/index';
+import Posts from '../../components/Posts/index';
 const Home = () => {
   return (
-    <View>
-      <WhatIsOnYourMind />
-      <CreateRoom />
-      <Stories />
-    </View>
+    <ScrollView>
+      <View>
+        <WhatIsOnYourMind />
+        <CreateRoom />
+        <Stories />
+        <Posts />
+      </View>
+    </ScrollView>
   );
 };
 export default Home;
